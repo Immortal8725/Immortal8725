@@ -17,39 +17,42 @@
 
 ## 🔥 **FEATURED PROJECTS**
 
-### 🏥 [Healthcare Patient Dashboard](https://github.com/Immortal8725/healthcare-frontend)
-A **production-grade React dashboard** with:
-- Role-Based Access (**Admin / Doctor / Patient**)
-- Real-time analytics & reporting
-- Dark/Light mode UI
-- Export system (**PDF / CSV**)
+### 🏥 Healthcare Patient Dashboard
+**Production-grade React dashboard** with role-based access (Admin/Doctor/Patient), real-time analytics, dark/light mode, and PDF/CSV export.
 
-👉 [🚀 Live Demo](https://healthcare-frontend-seven-sepia.vercel.app)
+👉 **[🚀 Live Demo](https://healthcare-frontend-seven-sepia.vercel.app)**
 
 ---
 
-### 🔐 [TextSpectacles Secure App](https://github.com/Immortal8725/TextSpectaclesSecureApp)
-High-performance **secure Java EE messaging system** with DESede encryption, role-based access, and EJB architecture.
+### 🙏 SFC Church Platform
+Modern, responsive **React website** for Spirit Filled Church (SFC) focused on community engagement and user experience.
+
+👉 **[🚀 Live Demo](https://sfc-react-site.vercel.app/)**
 
 ---
 
-### 🎓 [Student Management System](https://github.com/Immortal8725/Student-Management-System)
-Full-stack academic platform with:
-- Complete CRUD operations
-- MySQL database integration
-- Clean backend architecture
+### 🔐 TextSpectacles Secure App
+High-performance **secure Java EE messaging system** featuring DESede encryption, role-based authentication, and EJB architecture.
+
+*(Repository is private)*
 
 ---
 
-### ✅ [Task Tracker](https://github.com/Immortal8725/task-tracker-assessment)
-Clean and efficient **task management application** demonstrating:
-- Full CRUD functionality
-- Intuitive UI/UX design
-- Practical full-stack implementation
+### 🎓 Student Management System
+Full-stack academic platform with complete CRUD operations and MySQL integration.
+
+*(Repository is private)*
 
 ---
 
-👉 **[🚀 View All Projects](https://github.com/Immortal8725?tab=repositories)**
+### ✅ Task Tracker
+Clean and efficient task management application demonstrating full CRUD functionality and intuitive design.
+
+*(Repository is private)*
+
+---
+
+👉 **More projects available upon request** (Many repositories are private for academic/IP reasons)
 
 ---
 
