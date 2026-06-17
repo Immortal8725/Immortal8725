@@ -1,37 +1,35 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=0A66C2&width=435&lines=Hey+there%2C+I'm+Sandile+Bramwell+Munyadziwa;Computer+Science+Student;Full-Stack+Developer;Code+%7C+Music+%F0%9F%8E%B5" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=0A66C2&width=520&lines=Hi%2C+I'm+Sandile+Bramwell+Munyadziwa;Computer+Science+Student+%40+TUT;Full-Stack+Developer;Code+%7C+Music+%F0%9F%8E%B5" alt="Typing SVG"/>
 </a>
-
-<div align="center">
-  <img src="https://github.com/Immortal8725/Immortal8725/assets/XXXXXX/your-about-gif-here.gif" alt="About Me" width="500"/>
-</div>
 
 ---
 
-### 🎵 Code. Create. Compose.
+### 🎵 **Code. Create. Compose.**
 
-Aspiring **Computer Science** student who turns ideas into reality through clean code and creative solutions. By day I build scalable web applications and secure systems — by night I produce music and explore the beautiful intersection of technology and art.
+**Tshwane University of Technology** Computer Science student passionate about building real-world applications. I combine clean code with creativity — developing scalable web systems by day and producing music by night.
+
+Currently wrapping up my studies and **Work Integrated Learning (WIL)**, eager to apply my skills in professional environments.
 
 ---
 
 ### 🔥 Featured Projects
 
 - **[Healthcare Patient Dashboard](https://github.com/Immortal8725/healthcare-frontend)**  
-  Modern React dashboard with role-based access, real-time charts, dark/light mode & export features.  
+  React-based system with role-based dashboards (Admin/Doctor/Patient), real-time charts, dark mode, and PDF/CSV export.  
   **[Live Demo →](https://healthcare-frontend-seven-sepia.vercel.app)**
 
 - **[TextSpectacles Secure App](https://github.com/Immortal8725/TextSpectaclesSecureApp)**  
-  Secure text processing & data protection tool built in Java.
+  Secure text processing application built with Java.
 
 - **[Student Management System](https://github.com/Immortal8725/Student-Management-System)**  
-  Full-stack PHP/MySQL academic records platform.
+  Full-stack PHP + MySQL solution for academic record management.
 
 - **[Task Tracker](https://github.com/Immortal8725/task-tracker-assessment)**  
-  Intuitive task management app with smooth CRUD operations.
+  Clean CRUD task management app.
 
-→ [Explore all repositories](https://github.com/Immortal8725?tab=repositories)
+→ **[View All Repositories](https://github.com/Immortal8725?tab=repositories)**
 
 ---
 
@@ -41,24 +39,22 @@ Aspiring **Computer Science** student who turns ideas into reality through clean
 
 **Frontend:** React, JavaScript, HTML/CSS, Bootstrap  
 **Backend:** Java (Spring Boot), PHP, MySQL  
-**Other:** Python, REST APIs, Git
+**Other:** Python, REST APIs, Git & GitHub
 
 ---
 
 ### 🌱 Currently Vibing With
 
-[![Learning](https://skillicons.dev/icons?i=aws,azure,docker,spring)](https://skillicons.dev)
+- Advanced React & State Management
+- Spring Boot Microservices
+- Cloud Technologies (AWS/Azure)
+- Merging **music production** with software development
 
-- Advanced **React** & state management  
-- **Spring Boot** microservices  
-- Cloud technologies & DevOps  
-- Merging **music production** with software engineering  
-
-**Fun Fact:** I believe great code, like great music, should be both powerful and inspiring.
+**Fun Fact:** Great code, like great music, should be functional *and* inspiring.
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Connect With Me
 
 <div>
   <a href="https://linkedin.com/in/sandile-bramwell-m-283301240">
@@ -71,11 +67,10 @@ Aspiring **Computer Science** student who turns ideas into reality through clean
 
 ---
 
-### 👀 For Recruiters & Collaborators
+### 👀 For Recruiters & WIL
 
-> **Open to opportunities** in full-stack development, software engineering, and innovative tech projects.
-
-**[Download my Resume →](https://drive.google.com/...)** *(replace with your actual link)*
+> **Open to opportunities** in Software Development, Full-Stack roles, or further WIL placements.  
+> **[Download Resume →](your-resume-link)** *(update this)*
 
 ---
 
