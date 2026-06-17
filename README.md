@@ -5,84 +5,78 @@
 </a>
 
 ---
-
 # 🚀 **FULL-STACK DEVELOPER | SOFTWARE ENGINEER | TUT**
 
 💡 I design and build **scalable, secure, production-ready systems** with modern technologies.  
 🎯 Focused on delivering **real-world solutions**, clean architecture, and high-performance applications.  
-
 📍 Based in Pretoria, South Africa 🇿🇦  
 🎓 Computer Science Graduate — Tshwane University of Technology  
-⚡ Currently completing **Work Integrated Learning (WIL)**  
+⚡ Currently completing **Work Integrated Learning (WIL)**
 
 ---
 
-## 🔥 **FEATURED PROJECTS (REAL-WORLD BUILD)**
+## 🔥 **FEATURED PROJECTS**
 
 ### 🏥 [Healthcare Patient Dashboard](https://github.com/Immortal8725/healthcare-frontend)
 A **production-grade React dashboard** with:
 - Role-Based Access (**Admin / Doctor / Patient**)
-- Real-time analytics & reporting  
-- Dark/Light mode UI  
-- Export system (**PDF / CSV**)  
+- Real-time analytics & reporting
+- Dark/Light mode UI
+- Export system (**PDF / CSV**)
 
 👉 [🚀 Live Demo](https://healthcare-frontend-seven-sepia.vercel.app)
 
 ---
 
 ### 🔐 [TextSpectacles Secure App](https://github.com/Immortal8725/TextSpectaclesSecureApp)
-High-performance **secure text processing system** built in Java.
+High-performance **secure Java EE messaging system** with DESede encryption, role-based access, and EJB architecture.
 
 ---
 
 ### 🎓 [Student Management System](https://github.com/Immortal8725/Student-Management-System)
 Full-stack academic platform with:
-- CRUD management system  
-- Backend data handling  
-- Database integration (MySQL)  
+- Complete CRUD operations
+- MySQL database integration
+- Clean backend architecture
 
 ---
 
 ### ✅ [Task Tracker](https://github.com/Immortal8725/task-tracker-assessment)
-Clean and efficient **task management app** demonstrating:
-- Full CRUD operations  
-- Structured UI/UX  
-- Practical application design  
+Clean and efficient **task management application** demonstrating:
+- Full CRUD functionality
+- Intuitive UI/UX design
+- Practical full-stack implementation
 
 ---
 
-👉 **Explore more:**  
-[🚀 View My GitHub Portfolio](https://github.com/Immortal8725?tab=repositories)
+👉 **[🚀 View All Projects](https://github.com/Immortal8725?tab=repositories)**
 
 ---
 
-## 🛠️ **TECH STACK (PRODUCTION-READY)**
+## 🛠️ **TECH STACK**
 
 [![My Skills](https://skillicons.dev/icons?i=react,angular,typescript,js,html,css,bootstrap,java,spring,php,mysql,postgres,django,nodejs,python,git,github)](https://skillicons.dev)
 
-**Frontend Engineering**
-- React, Angular, TypeScript, JavaScript  
-- Responsive UI (HTML, CSS, Bootstrap)  
+**Frontend Engineering**  
+- React, Angular, TypeScript, JavaScript, Bootstrap
 
-**Backend Engineering**
-- Java (Spring Boot), Node.js, Django, PHP  
-- REST APIs & Service Architecture  
+**Backend Engineering**  
+- Java (Spring Boot), Node.js, Django, PHP
 
-**Data & Systems**
-- PostgreSQL, MySQL  
-- Database Design & Optimization  
+**Databases**  
+- PostgreSQL, MySQL
 
-**Tools & Workflow**
-- Git, GitHub, API Integration  
+**Tools & Others**  
+- REST APIs, Git, GitHub
 
 ---
 
 ## 📈 **CURRENT FOCUS**
 
 🔹 Advanced **TypeScript & Angular**  
-🔹 Backend ecosystems (**Node.js & Django**)  
-🔹 **PostgreSQL optimization & architecture**  
-🔹 **Spring Boot Microservices & Cloud Deployment**  
+🔹 **Node.js & Django** ecosystems  
+🔹 **PostgreSQL** optimization and design  
+🔹 **Spring Boot** Microservices & Cloud technologies
 
 ---
 
@@ -102,16 +96,16 @@ Clean and efficient **task management app** demonstrating:
 ## 🎯 **OPEN TO OPPORTUNITIES**
 
 💼 **Actively seeking:**
-- Full-Stack Developer Roles  
-- Backend Engineering Roles  
-- Graduate Programs / WIL Opportunities  
+- Full-Stack Developer Roles
+- Backend Engineering Positions  
+- Graduate / WIL Opportunities
 
-✅ Ready to contribute to **production systems, scalable platforms, and high-impact teams**  
+✅ Ready to contribute to **production systems, scalable platforms, and high-impact teams**
 
-👉 **[📄 Download Resume](your-resume-link-here)** *(Update with your real link)*  
+👉 **[📄 Download Resume](your-resume-link-here)** *(Replace with your actual link)*
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=140&section=footer"/>
 
-# ⚡ *“I don’t just write code — I build systems that scale.”*  
+# ⚡ *“I don’t just write code — I build systems that scale.”*
